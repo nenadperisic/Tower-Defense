@@ -1,0 +1,77 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>tower4.png</file>
+        <file>tower3.png</file>
+        <file>towerStore_1.png</file>
+        <file>woodenBoardResized.jpg</file>
+        <file>background.png</file>
+        <file>japaneseTowerForScene.png</file>
+        <file>japaneseTowerForCursor.png</file>
+        <file>fireBall.jpg</file>
+        <file>arrowResized.jpg</file>
+        <file>japaneseTowerStore_2.png</file>
+        <file>goblin.png</file>
+        <file>goblin_flipped.png</file>
+        <file>commonKnight.png</file>
+        <file>commonKnightFlipped.png</file>
+        <file>darkKnight.png</file>
+        <file>darkKnightFlipped.png</file>
+        <file>zombieDinosaur.png</file>
+        <file>zombieDinosaurFlipped.png</file>
+        <file>witchTowerForStore.png</file>
+        <file>witch.png</file>
+        <file>mageTowerForStore.png</file>
+        <file>mage.png</file>
+        <file>ice.png</file>
+        <file>blueBall.png</file>
+        <file>blackArrow.png</file>
+        <file>arrow.png</file>
+        <file>iceTowerForStore.png</file>
+        <file>zombieDragon.png</file>
+        <file>witchTowerBullet.png</file>
+        <file>mageTowerBullet.png</file>
+        <file>iceTowerBullet.png</file>
+        <file>mageTower.png</file>
+        <file>dragon.png</file>
+        <file>map.jpg</file>
+        <file>grass_1.jpeg</file>
+        <file>iceTower.png</file>
+        <file>grass_6.jpeg</file>
+        <file>road_1.jpg</file>
+        <file>road_2.jpg</file>
+        <file>introMap_1.png</file>
+        <file>introMap_2.png</file>
+        <file>introMap_3.jpg</file>
+        <file>introMap_1_changed.png</file>
+        <file>moth.png</file>
+        <file>forestRoad_2.jpg</file>
+        <file>forest_1.jpg</file>
+        <file>zombieDinosaurFlippedResized.png</file>
+        <file>scoresBackground.png</file>
+        <file>wallStoreGrey.jpg</file>
+        <file>wallStoreFire.jpg</file>
+        <file>wallStore.jpg</file>
+        <file>commonKnight About.resized.png</file>
+        <file>darkKnight.resized.png</file>
+        <file>goblin.resized.png</file>
+        <file>moth.resized.png</file>
+        <file>zombieDinosaur.resized.png</file>
+        <file>zombieDragon.resized.png</file>
+        <file>dragon.resized.png</file>
+    </qresource>
+    <qresource prefix="/paths">
+        <file>path_1.txt</file>
+        <file>level_1.json</file>
+        <file>level_2.json</file>
+        <file>path_2.txt</file>
+        <file>level_3.json</file>
+        <file>path_3.txt</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>soundtrack.mp3</file>
+        <file>bulletSound.mp3</file>
+        <file>bulletSound_1.mp3</file>
+        <file>introMusic.mp3</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
